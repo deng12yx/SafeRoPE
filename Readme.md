@@ -295,10 +295,11 @@ Experiments were conducted on:
 If you find this work useful, please cite:
 
 ```bibtex
-@article{saferope2026,
+@inproceedings{yang2026saferope,
   title={SafeRoPE: Risk-specific Head-wise Embedding Rotation for Safe Generation in Rectified Flow Transformers},
-  author={Xiang Yang, Feifei Li, Mi Zhang, Geng Hong, Xiaoyu You, Min Yang},
-  journal={CVPR 26},
+  author={Yang, Xiang and Li, Feifei and Zhang, Mi and Hong, Geng and You, Xiaoyu and Yang, Min},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={690--700},
   year={2026}
 }
 ```
@@ -312,4 +313,3 @@ We thank the open-source community for providing tools and models used in this w
 - FLUX
 - Diffusers
 - PyTorch
-
